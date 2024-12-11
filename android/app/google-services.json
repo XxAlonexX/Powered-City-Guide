@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928995235240",
+    "project_id": "city-powered",
+    "storage_bucket": "city-powered.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928995235240:android:93eb9950b01ac37c86f99d",
+        "android_client_info": {
+          "package_name": "com.aipowered.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-q3FqDZWy4aNqhPnVnH1Op37Q1JwDVII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
